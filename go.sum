@@ -1,0 +1,10 @@
+github.com/nohupped/ADtoLDAP v0.0.0-20180807032555-4f885cd74621 h1:+/X68yuEmwc/wAVjWNcM70waItgf8LVgcXMLYRzybTQ=
+github.com/nohupped/ADtoLDAP v0.0.0-20180807032555-4f885cd74621/go.mod h1:K5ERplgekX5AdhcwH5xDCLKspPQd4hsr0Zv9kIoMC9I=
+github.com/nohupped/glog v0.0.0-20170817094223-987bcf0a08b2 h1:VeEaFvFmt71EJhvMdIrUFsJhtq5E2cwNZVoXivB+9dY=
+github.com/nohupped/glog v0.0.0-20170817094223-987bcf0a08b2/go.mod h1:nNHe+hoBcEE5/chbWWgEJLNXm2J6ePTzn1dkfS2tEMA=
+gopkg.in/asn1-ber.v1 v1.0.0-20181015200546-f715ec2f112d h1:TxyelI5cVkbREznMhfzycHdkp5cLA7DpE+GKjSslYhM=
+gopkg.in/asn1-ber.v1 v1.0.0-20181015200546-f715ec2f112d/go.mod h1:cuepJuh7vyXfUyUwEgHQXw849cJrilpS5NeIjOWESAw=
+gopkg.in/ini.v1 v1.41.0 h1:Ka3ViY6gNYSKiVy71zXBEqKplnV35ImDLVG+8uoIklE=
+gopkg.in/ini.v1 v1.41.0/go.mod h1:pNLf8WUiyNEtQjuu5G5vTm06TEv9tsIgeAvK8hOrP4k=
+gopkg.in/ldap.v2 v2.5.1 h1:wiu0okdNfjlBzg6UWvd1Hn8Y+Ux17/u/4nlk4CQr6tU=
+gopkg.in/ldap.v2 v2.5.1/go.mod h1:oI0cpe/D7HRtBQl8aTg+ZmzFUAvu4lsv3eLXMLGFxWk=

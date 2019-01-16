@@ -1,0 +1,10 @@
+# github.com/nohupped/ADtoLDAP v0.0.0-20180807032555-4f885cd74621
+github.com/nohupped/ADtoLDAP/gosyncmodules
+# github.com/nohupped/glog v0.0.0-20170817094223-987bcf0a08b2
+github.com/nohupped/glog
+# gopkg.in/asn1-ber.v1 v1.0.0-20181015200546-f715ec2f112d
+gopkg.in/asn1-ber.v1
+# gopkg.in/ini.v1 v1.41.0
+gopkg.in/ini.v1
+# gopkg.in/ldap.v2 v2.5.1
+gopkg.in/ldap.v2
